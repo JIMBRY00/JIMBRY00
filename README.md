@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JIMBRY00
-- 👀 I’m interested in flutter, c#, unreal engine game dev
-- 🌱 I’m currently learning phytom, blender, zbrush
+- 👀 I’m interested in flutter, c# and game dev
+- 🌱 I’m currently learning phytom, blender, gdscript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
